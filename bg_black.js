@@ -1,3 +1,4 @@
 ;(function() {
-document.body.style.backgroundColor='black';
+    console.log('hmm');
+    document.body.style.backgroundColor='black';
 })();
